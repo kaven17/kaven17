@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I’m Kaven P.S</h1>
+<h3 align="center">Cybersecurity Student & CTF Enthusiast</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaven17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
   <img src="https://img.shields.io/github/followers/kaven17?style=social" alt="GitHub followers" />
