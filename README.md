@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Kaven P.S</h1>
-<h3 align="center">Cybersecurity Engineer | CTF Player | Builder</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaven17&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kaven17&theme=onedark" />
-</p>
-
----
-
 ## 🚀 About Me
 - 🔭 Working on **Attack Surface Patcher**
 - 🌱 Learning **Java, TensorFlow**
