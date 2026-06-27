@@ -1,87 +1,196 @@
-<h1 align="center">Hi 👋, I’m Kaven P.S</h1>
-<h3 align="center">Cybersecurity Student & CTF Enthusiast</h3>
+<div align="center">
+  <img src="https://github.com/kaven17/kaven17/raw/main/uchiha-itachi-akatsuki-moewalls-com-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Banner"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaven17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views badge" />
-  <img src="https://img.shields.io/github/followers/kaven17?style=social" alt="GitHub followers" />
-  <img src="https://github-profile-trophy.vercel.app/?username=kaven17&theme=onedark" alt="GitHub trophies" />
-</p>
+<br/>
 
-## 🚀 About Me
-- 🔭 I’m currently working on **Attack Surface Patcher**  
-- 🌱 I’m learning **Java, TensorFlow**  
-- 👨‍💻 Portfolio: [kavenps.vercel.app](https://kavenps.vercel.app/)  
-- 📫 Contact: **kaven.cybersec@gmail.com**
+<div align="center">
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/kavenps007" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
-</a>
-<a href="https://instagram.com/ar_kenz" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" alt="Instagram" height="30" width="30"/>
-</a>
-<a href="https://medium.com/@kavenfrosty" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="30" width="30"/>
-</a>
-<a href="https://leetcode.com/u/kavenfrosty/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" alt="LeetCode" height="30" width="30"/>
-</a>
-</p>
+# Kaven P.S
+### `M4D4R4` · Offensive Security Researcher · Bug Bounty Hunter · Smart Contract Auditor
 
-## 🧠 Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kavenps.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavenps007)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kavenfrosty)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaven.cybersec@gmail.com)
 
-### ⚙️ Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-</p>
+![Views](https://komarev.com/ghpvc/?username=kaven17&label=Profile+Views&color=8b0000&style=flat)
+![Followers](https://img.shields.io/github/followers/kaven17?label=Followers&style=flat&color=8b0000)
 
-### 🛡️ Security & Systems  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40"/>
-</p>
+</div>
 
-### 🌐 Web & Backend  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-</p>
+<br/>
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40"/>
-</p>
+---
 
-### ☁️ Cloud & DevOps  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
-</p>
+### About
 
-### 🤖 AI / ML  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40"/>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" bgcolor="#0d1117" valign="middle" align="center">
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="100%" alt="anime"/>
+</td>
+<td width="50%" bgcolor="#160000" valign="middle">
+<br/>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaven17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaven17&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Final-year B.E. Cybersecurity student at RMK College of Engineering and Technology, Thiruvallur. I specialise in web exploitation, API security, and smart contract auditing — hunting on **Bugcrowd**, **HackerOne**, **Intigriti**, and **HackenProof**.
 
-## ⚡ Notes
-- Focus on practical exploitation and tooling (CTFs, real-world attacks)  
-- Prefers **building tools** over just using them  
-- CTF-driven learning and adversarial mindset  
+| | |
+|---|---|
+| 🎓 | B.E. CS (Cybersecurity) — RKMCET |
+| 💼 | Intern @ HTC Global Services & EduExpose |
+| 🔍 | IDOR · OAuth · API · Smart Contracts |
+| 🟢 | Actively hunting |
+
+<br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### Projects
+
+<table width="100%">
+<tr>
+<td width="25%" bgcolor="#160000" valign="top" align="center">
+<br/>
+
+**🔬 SentinelScope**
+
+AI attack surface engine with BFS/Dijkstra exploit paths via Gemini 2.5 Flash.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+</td>
+<td width="25%" bgcolor="#1a0000" valign="top" align="center">
+<br/>
+
+**🏗️ Genesis**
+
+Decentralised credential verification on EVM/Polygon with IPFS storage.
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+
+<br/>
+</td>
+<td width="25%" bgcolor="#160000" valign="top" align="center">
+<br/>
+
+**🔗 INTEGRITI**
+
+Blockchain-anchored pharma supply chain platform on Sepolia + Next.js.
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+<br/>
+</td>
+<td width="25%" bgcolor="#1a0000" valign="top" align="center">
+<br/>
+
+**🤖 AttackWeaver**
+
+Multi-agent AI Blue-Team Co-Pilot with blockchain audit trail on Sepolia.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### Tech Stack
+
+<table width="100%">
+<tr>
+<td colspan="3" bgcolor="#0d0000" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60%" alt="Tech Stack Animation"/>
+</td>
+</tr>
+<tr>
+<td width="33%" bgcolor="#160000" valign="top" align="center">
+<br/>
+
+**⚙️ Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+</td>
+<td width="33%" bgcolor="#1a0000" valign="top" align="center">
+<br/>
+
+**🛡️ Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+<br/>
+</td>
+<td width="33%" bgcolor="#160000" valign="top" align="center">
+<br/>
+
+**🌐 Web & Blockchain**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
+
+<br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+### Stats
+
+<table width="100%">
+<tr>
+<td width="50%" bgcolor="#160000" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kaven17&show_icons=true&theme=github_dark&hide_border=true&title_color=8b0000&icon_color=8b0000&bg_color=160000&rank_icon=github&hide=contribs" width="100%"/>
+</td>
+<td width="50%" bgcolor="#1a0000" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaven17&theme=github-dark&hide_border=true&ring=8b0000&fire=8b0000&currStreakLabel=8b0000&background=1a0000" width="100%"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#160000" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaven17&layout=compact&theme=github_dark&hide_border=true&title_color=8b0000&bg_color=160000&langs_count=6&card_width=400" height="120"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://github-readme-utils.vercel.app/api/gif/anime" height="140" alt="anime"/>
+<br/><br/>
+<sub>© 2025 Kaven P.S · kaven.cybersec@gmail.com</sub>
+</div>
